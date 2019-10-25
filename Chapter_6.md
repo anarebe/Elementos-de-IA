@@ -51,4 +51,13 @@ Ej: salario+año nacimiento+codigo postal=un individuo; seguir patrones de escri
 
 ### Implicación 4: cambio de trabajo
 La automatización siempre ha sido un camino hacia la eficiencia: obtener más con menos. La IA es una continuación de este progreso. Con IA y robótica, hay incluso menos necesidad de muchos tipos de trabajo aburrido y repetitivo, y más variables y creativos.
-Tareas que tienen más probabilidades de ser automatizadas: las soluciones de robótica autónoma, las aplicaciones de servicio al cliente
+Tareas que tienen más probabilidades de ser automatizadas: las soluciones de robótica autónoma, las aplicaciones de servicio al cliente.
+
+## 3. Resumen
+Las decisiones que determinan qué tan bien puede adaptarse nuestra sociedad a los cambios que trae la IA no son tecnológicas son **politicos**. La regulación del uso de la IA debe seguir principios democráticos.
+
+Lo que debemos hacer para garantizar un resultado positivo:
+-   Necesitamos evitar el sesgo algorítmico
+-   Debemos aprender a ser críticos con lo que vemos
+-   Necesitamos establecer una regulación para garantizar que las personas tengan derecho a la privacidad
+-  Encontrar nuevas formas de compartir los beneficios para todos
