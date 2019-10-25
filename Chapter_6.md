@@ -27,3 +27,28 @@ Finalmente, la tendencia actual al alza es el regreso de las **redes neuronales*
 La imagen de un brutal robot humanoide con inteligencia artificial y sin control o razonamiento humano no es realista. La IA no es superinteligente solo tiene razonamientos automátizados, y la idea del aumento exponencial de la inteligencia: singularidad, no es realista.
 
 ## 2. Las implicaciones sociales de la IA
+
+### Implicación 1: sesgo algorítmico
+La razón principal del sesgo algorítmico es el **sesgo humano en los datos**.
+El sesgo algorítmico es un fenómeno real que ya está afectando a las personas hoy.
+El algoritmo de aprendizaje automático puede aprender a discriminar a mujeres o individuos con un determinado origen étnico.
+Ej: solicitudes de empleo, préstamos bancarios, publicidad online, redes sociales,...
+La principal dificultad en el uso de IA y aprendizaje automático en lugar de sistemas basados ​​en reglas es su falta de **transparencia**. La UUEE ha creado un Reglamento General Europeo de Protección de Datos (GDPR) para proporcionar mayor transparencia (deben explicar sus procesos algorítmicos de toma de decisiones. Sin embargo, todavía no está claro qué cuenta exactamente como una explicación).
+
+###  Implicación 2: Ver para creer, ¿o no?
+AI está llevando las posibilidades de fabricar evidencia a un nivel completamente nuevo.
+Ej: [Face2Face](https://www.youtube.com/watch?v=ohmajJTcpNk) (identificar las expresiones faciales de una persona y ponerlas en la cara de otra persona), [Lyrebird](https://lyrebird.ai/) (imitación automática de la voz de una persona a partir de unos pocos minutos de grabación de muestra).
+
+### Implicación 3: Cambiando las nociones de privacidad
+El uso de IA conlleva nuevos tipos de amenazas a nuestra privacidad, ya que las empresas de tecnología recopilan mucha información sobre sus usuarios. 
+Análizan los datos para identificar individuos, aunque intentes evitar es **la anonimización**.
+Ej: salario+año nacimiento+codigo postal=un individuo; seguir patrones de escritura (intervalo de pulsaciones)
+
+> **Privacidad diferencial** tiene como objetivo desarrollar algoritmos de
+> aprendizaje automático que puedan garantizar que los resultados sean
+> lo suficientemente generales para evitar la ingeniería inversa de los
+> puntos de datos específicos que ingresaron.
+
+### Implicación 4: cambio de trabajo
+La automatización siempre ha sido un camino hacia la eficiencia: obtener más con menos. La IA es una continuación de este progreso. Con IA y robótica, hay incluso menos necesidad de muchos tipos de trabajo aburrido y repetitivo, y más variables y creativos.
+Tareas que tienen más probabilidades de ser automatizadas: las soluciones de robótica autónoma, las aplicaciones de servicio al cliente
