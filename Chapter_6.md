@@ -60,4 +60,4 @@ Lo que debemos hacer para garantizar un resultado positivo:
 -   Necesitamos evitar el sesgo algorítmico
 -   Debemos aprender a ser críticos con lo que vemos
 -   Necesitamos establecer una regulación para garantizar que las personas tengan derecho a la privacidad
--  Encontrar nuevas formas de compartir los beneficios para todos
+-  Debemos encontrar nuevas formas de compartir los beneficios para todos
